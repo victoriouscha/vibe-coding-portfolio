@@ -432,7 +432,6 @@ git push -u origin main
 
 `USERNAME`과 저장소 이름을 자신의 정보로 변경한다. `origin`이 이미 존재한다면 `git remote add origin`을 반복 실행하지 않는다. GitHub 인증 화면이 나타나면 인증한다.
 
-강사 실습 저장소: [seunghui-website](https://github.com/victoriouscha/seunghui-website)
 
 ### 5. GitHub 업로드 결과 확인
 
@@ -463,7 +462,6 @@ GitHub 저장소에서 `index.html`, CSS, JavaScript, 이미지 파일이 정상
 https://USERNAME.github.io/student-portfolio/
 ```
 
-강사 실습 예상 배포 주소: [홈페이지](https://victoriouscha.github.io/seunghui-website/)
 
 홈페이지 콘텐츠, 디자인, 이미지 및 기능이 정상적으로 출력되는지 확인한다. 강사 예제의 최종 배포 성공 여부는 별도로 확인해야 한다.
 
