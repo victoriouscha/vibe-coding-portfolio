@@ -144,17 +144,7 @@ student-portfolio/
 └── script.js
 ```
 
-실제 강사 예제에서는 CSS, JavaScript 및 이미지 파일을 별도 폴더로 관리하였다.
 
-``` text
-seunghui-website/
-├── css/
-│   └── style.css
-├── images/
-├── js/
-├── README.md
-└── index.html
-```
 
 ### 4. 웹사이트 실행
 
